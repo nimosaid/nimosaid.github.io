@@ -42,7 +42,6 @@ h1 {
   font-family: 'Merienda', cursive;
   height: 600px;
   padding-right: 400px;
-  padding-bottom: 500px;
   font-size:150%
 
 }
@@ -55,7 +54,7 @@ h5 {
 body>main>section>h2
 {
     border:1px solid #000;
-    margin=20px;
+    margin:20px;
     color:darkgoldenrod;
     position:fixed;
     width:100%;
@@ -72,15 +71,14 @@ body>main>section>h2
   background-size: cover;
   background-repeat: repeat-y;
   position: relative;
-  height: 2000px;
+
   position: relative;
-  padding-bottom: 400px;
+
   font-family: 'Merienda', cursive;
   color: white;
   padding-left: 400px;
   padding-right: 400px;
-  padding-bottom: 20px;
-  
+
   
 }
 
